@@ -29,3 +29,4 @@ htmlcov/
 .direnv
 
 .github/**
+README_STEPS.md
